@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Mariana's GitHub Link](https://github.com/MarianaES)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Mariana's LinkedIn Link](https://www.linkedin.com/in/marianaes%E2%97%A1%CC%88/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
