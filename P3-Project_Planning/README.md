@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+<ul>
+    <li>Landing page | Log In</li>
+    <li>Register page</li>
+    <li>Create, Edit, Delete shows</li>
+</ul>
+
+[Wireframes' Link](https://drive.google.com/drive/folders/1krta5JCLGLwpRx26THKCnOCZv8BuCLMX)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Link](https://trello.com/b/22sfLhxw/liftoff2021)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Repo Link](https://github.com/tomvalli/soiwenttoaconcert)
